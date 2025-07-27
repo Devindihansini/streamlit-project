@@ -24,7 +24,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import pickle
 
 """**Load the Dataset**"""
-data = pd.read_csv(r"E:\Year 03\Sem 02\Notes\Intelligent Systems (IS)\Stremlit_project01\data\boston_house_prices_dataset.csv")
+data = pd.read_csv(r"E:\Year 03\Sem 02\Notes\Intelligent Systems (IS)\new_repo01\data\boston_house_prices_dataset.csv")
 
 # Show first 5 rows
 data.head()
